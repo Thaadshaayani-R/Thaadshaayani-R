@@ -28,7 +28,7 @@ My academic path started with a **BSc in Engineering**, but my passion for under
 ### Auto Feature Generator – Titanic Survival Prediction (GenAI)
 A machine learning pipeline to predict survival in the Titanic dataset, with **Generative AI-assisted feature engineering**.  
 Result: Improved model accuracy from **81.6% → 83.2%** 🎯  
-🔗 [View Project](<LINK_TO_YOUR_PROJECT_REPO>)
+🔗 [View Project](https://github.com/Thaadshaayani-R/Auto_Feature_Generator_Improving_Titanic_Survival_Prediction_with_Generative_AI)
 
 ---
 
