@@ -20,7 +20,7 @@ My academic path started with a **BSc in Engineering**, but my passion for under
 ####  Skills & Tools
 **Data Engineering & Distributed Processing:** ETL/ELT pipelines, Data validation, Incremental loading, Data Migration  
 **Languages:** Python, SQL  
-**Cloud & Platforms:** Databricks, Azure SQL, Azure Data Factory, Azure Blob Storage \n
+**Cloud & Platforms:** Databricks, Azure SQL, Azure Data Factory, Azure Blob Storage                                                                           
 **Other Tools:** GitHub, Colab, Jupyter Notebook
 
 
