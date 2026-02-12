@@ -22,6 +22,7 @@ My academic path started with a **BSc in Engineering**, but my passion for under
 **Languages:** Python, SQL  
 **Cloud & Platforms:** Databricks, Azure SQL, Azure Data Factory, Azure Blob Storage
 **Other Tools:** GitHub, Colab, Jupyter Notebook
+
 ---
 
 #### Let’s Connect
